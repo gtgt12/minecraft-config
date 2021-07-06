@@ -1,0 +1,29 @@
+{
+	"enabled": true,
+	"macros": [
+		{
+			// Macro keybinding
+			"keyName": "key.mouse.4",
+			// Key modifier
+			"keyModName": "key.keyboard.unknown",
+			// Command to execute
+			"command": "/gamemode spectator",
+			// Type of Macro. Delayed, Repeating, SingleUse, DisplayOnly
+			"macroType": "SingleUse",
+			// Delay(Milliseconds) used for the delay type.
+			"delay": 0
+		},
+		{
+			// Macro keybinding
+			"keyName": "key.keyboard.r",
+			// Key modifier
+			"keyModName": "key.keyboard.unknown",
+			// Command to execute
+			"command": "/gamemode creative",
+			// Type of Macro. Delayed, Repeating, SingleUse, DisplayOnly
+			"macroType": "SingleUse",
+			// Delay(Milliseconds) used for the delay type.
+			"delay": 0
+		}
+	]
+}
